@@ -7,5 +7,3 @@ Phppgadmin + PostgreSQL v13
 API測試 postman
 git 搭配 source tree
 
-
-GET: https://ab77-118-160-15-32.ngrok.io/CodeIgniter-3.1.11/index.php/calculate
